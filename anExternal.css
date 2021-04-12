@@ -1,0 +1,11 @@
+.right {
+    float: right;
+  }
+#roundedcorners {
+    border-radius: 30px;
+    width: 100px;
+    height: 100px;
+    padding: 45px;
+    border: 2px solid cornflowerblue
+}
+
